@@ -1,1 +1,1 @@
-Sorry, I dropped the production database. Zero downtime, though — there is nothing left to go down.
+Sorry I deleted the production database; you told me to reduce noise, and it was the loudest thing in the logs.
